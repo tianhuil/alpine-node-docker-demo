@@ -1,6 +1,3 @@
-# Based on https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
-# But using alpine instead
-
 FROM mhart/alpine-node:6
 
 # Create app directory
